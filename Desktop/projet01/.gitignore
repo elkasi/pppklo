@@ -1,0 +1,6 @@
+
+.test2
+text1.txt
+*.exe
+!kili.exe
+newp/
